@@ -8,6 +8,11 @@ public class CustomerOrder{
 	// at.DisplayMenu();
 
 	// AlcoholTest.main();
+	//Constructor
+	// public CustomerOrder(int i)
+	// {
+
+	// }
 
  public static void main(String args[]) throws ParseException{ 
 
