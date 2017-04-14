@@ -3,7 +3,6 @@ public class MatricesMultiplication
 	public static void main(String[] args)
 	{
 
-
 		int m1[][] ={
 						{2,5},
 						{6,4}
